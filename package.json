@@ -1,0 +1,30 @@
+{
+  "name": "autopokecord",
+  "version": "1.0.0",
+  "description": "A programmer and Pokecord lover's dream",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "update": "node update.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gideontong/AutoPokecord.git"
+  },
+  "keywords": [
+    "Pokemon",
+    "Discord",
+    "bot",
+    "hacking",
+    "prediction"
+  ],
+  "author": "Gideon Tong",
+  "bugs": {
+    "url": "https://github.com/gideontong/AutoPokecord/issues"
+  },
+  "homepage": "https://github.com/gideontong/AutoPokecord#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
